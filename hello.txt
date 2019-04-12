@@ -6,6 +6,4 @@ hi
 world
 
 hahaha
-//for command line git tutorial
-// Github modification 
 
