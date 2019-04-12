@@ -8,7 +8,7 @@ world
 hahaha
 
 <<<<<<< HEAD
-// tutorial is bad
+// tutorial is baaad
 =======
 //git tutorial is good
 >>>>>>> origin/master
